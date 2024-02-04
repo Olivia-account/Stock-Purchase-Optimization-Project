@@ -505,8 +505,8 @@ if __name__ == "__main__":
     print("预期利润:", expected_profit)
     print("折现率d:", discount_rate)
 ```
-项目链接
+# 项目链接
 CSDN：https://blog.csdn.net/m0_46573428/article/details/136034838
 
-后记
+# 后记
 如果觉得有帮助的话，求 关注、收藏、点赞、星星 哦！
